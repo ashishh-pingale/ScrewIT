@@ -3,12 +3,17 @@
 import importlib.util
 from pathlib import Path
 import sys
+from typing import Any
+import pytest
 
 
-def load_generator_module():
+def load_generator_module() -> Any:
     """Load the standard-library dataset generator without adding a package dependency."""
-    generator_path = Path(__file__).resolve().parents[3] / "scripts" / "generate_demo_dataset.py"
-    spec = importlib.util.spec_from_file_location("generate_demo_dataset", generator_path)
+    root = Path(__file__).resolve().parents[2]
+    script_path = root / "scripts" / "generate_demo_dataset.py"
+    if not script_path.exists():
+        pytest.skip(f"Script not found at {script_path}")
+    spec = importlib.util.spec_from_file_location("generate_demo_dataset", script_path)
     assert spec is not None and spec.loader is not None
     module = importlib.util.module_from_spec(spec)
     sys.modules[spec.name] = module

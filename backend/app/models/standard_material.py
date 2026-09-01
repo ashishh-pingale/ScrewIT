@@ -9,6 +9,7 @@ from uuid import UUID, uuid4
 from sqlalchemy import DateTime, String, Text, func
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 from sqlalchemy.types import Uuid
+from pgvector.sqlalchemy import Vector
 
 from app.core.database import Base
 
@@ -29,6 +30,7 @@ class StandardMaterial(Base):
     material: Mapped[str | None] = mapped_column(String(255))
     grade: Mapped[str | None] = mapped_column(String(255))
     specifications: Mapped[str | None] = mapped_column(Text)
+    embedding: Mapped[list[float] | None] = mapped_column(Vector(384))
     created_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), server_default=func.now(), nullable=False
     )
