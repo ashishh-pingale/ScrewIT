@@ -1,0 +1,247 @@
+/* ── Upload Zone ──────────────────────────────────────────────────────── */
+.upload-zone {
+  border: 2px dashed var(--gray-300);
+  border-radius: 12px;
+  padding: 3rem 2rem;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background: var(--white);
+  margin-bottom: 1.5rem;
+}
+
+.upload-zone:hover {
+  border-color: var(--blue-400);
+  background: var(--blue-50);
+}
+
+.upload-zone--drag {
+  border-color: var(--blue-500);
+  background: var(--blue-50);
+  box-shadow: 0 0 0 4px var(--blue-100);
+}
+
+.upload-input {
+  display: none;
+}
+
+.upload-icon {
+  font-size: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.upload-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--navy-900);
+  margin-bottom: 0.35rem;
+}
+
+.upload-hint {
+  font-size: 0.75rem;
+  color: var(--gray-500);
+  max-width: 480px;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+
+/* ── Parse Errors ─────────────────────────────────────────────────────── */
+.ingestion-errors {
+  background: #fef3c7;
+  border: 1px solid #fde68a;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.ingestion-errors h4 {
+  font-size: 0.8125rem;
+  font-weight: 700;
+  color: #92400e;
+  margin-bottom: 0.35rem;
+}
+
+.ingestion-errors ul {
+  margin: 0;
+  padding-left: 1.25rem;
+  font-size: 0.75rem;
+  color: #78350f;
+  line-height: 1.6;
+}
+
+/* ── Preview Header ───────────────────────────────────────────────────── */
+.preview-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.preview-info h2 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--navy-900);
+}
+
+.preview-info h2 code {
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-size: 0.875rem;
+  color: var(--blue-600);
+  background: var(--blue-50);
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+}
+
+.preview-meta {
+  font-size: 0.75rem;
+  color: var(--gray-500);
+}
+
+.preview-meta code {
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-size: 0.6875rem;
+}
+
+.preview-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.table-scroll {
+  overflow-x: auto;
+}
+
+.row-num {
+  color: var(--gray-500);
+  font-size: 0.6875rem;
+  text-align: center;
+  width: 2rem;
+}
+
+/* ── Import Result ────────────────────────────────────────────────────── */
+.import-result {
+  background: var(--white);
+  border: 1px solid var(--gray-300);
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+.import-result-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.import-result-icon {
+  font-size: 2rem;
+}
+
+.import-result-header h2 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--navy-900);
+  margin: 0;
+}
+
+.import-result-summary {
+  font-size: 0.8125rem;
+  color: var(--gray-700);
+  margin-top: 0.15rem;
+}
+
+/* ── Match Prompt ─────────────────────────────────────────────────────── */
+.match-prompt {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 1.25rem;
+  background: linear-gradient(135deg, #eff6ff, #dbeafe);
+  border: 1px solid #93c5fd;
+  border-radius: 8px;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.match-prompt-content h3 {
+  font-size: 0.9375rem;
+  font-weight: 700;
+  color: var(--navy-900);
+  margin: 0 0 0.15rem;
+}
+
+.match-prompt-content p {
+  font-size: 0.8125rem;
+  color: var(--gray-700);
+  margin: 0;
+}
+
+.match-prompt-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+/* ── Match Result ─────────────────────────────────────────────────────── */
+.match-result {
+  text-align: center;
+  padding: 2rem;
+  background: #f0fdf4;
+  border: 1px solid #86efac;
+  border-radius: 8px;
+  margin-top: 1rem;
+}
+
+.match-result-icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.match-result h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--navy-900);
+  margin-bottom: 0.35rem;
+}
+
+.match-result p {
+  font-size: 0.875rem;
+  color: var(--gray-700);
+  margin-bottom: 1rem;
+}
+
+.match-result-actions {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+/* ── Done Actions ─────────────────────────────────────────────────────── */
+.import-done-actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+/* ── Spinner (reuse from materials page) ──────────────────────────────── */
+.btn-ai {
+  background: linear-gradient(135deg, #1e40af, #7c3aed);
+  color: var(--white);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  white-space: nowrap;
+}
+
+.btn-ai:hover:not(:disabled) {
+  opacity: 0.9;
+  box-shadow: 0 2px 8px rgba(30, 64, 175, 0.3);
+}
+
+.btn-ai:disabled {
+  opacity: 0.7;
+}

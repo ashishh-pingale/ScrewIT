@@ -1,0 +1,330 @@
+/* ── Count Chips ──────────────────────────────────────────────────────── */
+.audit-counts-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.audit-count-chip {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--white);
+  border: 1px solid var(--gray-300);
+  border-left: 3px solid var(--gray-300);
+  border-radius: 6px;
+}
+
+.audit-count-value {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--navy-900);
+}
+
+.audit-count-label {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  color: var(--gray-500);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* ── Filter Bar ──────────────────────────────────────────────────────── */
+.audit-filter-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem 1rem;
+  background: var(--white);
+  border: 1px solid var(--gray-300);
+  border-radius: 8px;
+  flex-wrap: wrap;
+}
+
+.audit-filter-bar .search-input {
+  flex: 1;
+  min-width: 200px;
+}
+
+.audit-result-count {
+  margin-left: auto;
+  font-size: 0.75rem;
+  color: var(--gray-500);
+  font-weight: 500;
+}
+
+/* ── Table ───────────────────────────────────────────────────────────── */
+.audit-table-card {
+  background: var(--white);
+  border: 1px solid var(--gray-300);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.audit-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8125rem;
+}
+
+.audit-table thead {
+  background: var(--gray-50);
+}
+
+.audit-th-expand {
+  width: 2rem;
+  padding: 0.625rem 0 0.625rem 1rem;
+  border-bottom: 1px solid var(--gray-300);
+}
+
+.audit-th-sortable {
+  padding: 0.625rem 1rem;
+  font-weight: 600;
+  font-size: 0.6875rem;
+  color: var(--gray-500);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-bottom: 1px solid var(--gray-300);
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.audit-th-sortable:hover {
+  color: var(--navy-900);
+  background: var(--gray-100);
+}
+
+.audit-table thead th:not(.audit-th-expand) {
+  text-align: left;
+}
+
+.audit-row {
+  cursor: pointer;
+  transition: background 0.1s ease;
+}
+
+.audit-row:hover {
+  background: var(--blue-50);
+}
+
+.audit-row--expanded {
+  background: var(--gray-50);
+}
+
+.audit-row td {
+  padding: 0.625rem 1rem;
+  border-bottom: 1px solid var(--gray-100);
+  vertical-align: middle;
+}
+
+.audit-td-expand {
+  width: 2rem;
+  padding-left: 1rem !important;
+}
+
+.expand-arrow {
+  display: inline-block;
+  font-size: 0.75rem;
+  color: var(--gray-500);
+  transition: transform 0.15s ease;
+}
+
+.expand-arrow--open {
+  transform: rotate(90deg);
+}
+
+.audit-td-time {
+  white-space: nowrap;
+}
+
+.audit-date {
+  font-weight: 600;
+  color: var(--navy-900);
+  font-size: 0.8125rem;
+}
+
+.audit-time {
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-size: 0.6875rem;
+  color: var(--gray-500);
+}
+
+.audit-actor {
+  font-weight: 600;
+  color: var(--navy-900);
+}
+
+.audit-action-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.audit-action-icon {
+  font-size: 0.625rem;
+  line-height: 1;
+}
+
+.audit-entity {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.8125rem;
+  color: var(--gray-700);
+}
+
+.audit-entity-icon {
+  font-size: 0.875rem;
+}
+
+.audit-td-id code {
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-size: 0.6875rem;
+  color: var(--gray-500);
+  background: var(--gray-50);
+  padding: 0.15rem 0.4rem;
+  border-radius: 3px;
+}
+
+.audit-empty {
+  text-align: center;
+  color: var(--gray-500);
+  padding: 2.5rem 1rem !important;
+  font-style: italic;
+}
+
+/* ── Expanded Detail ─────────────────────────────────────────────────── */
+.audit-detail-row {
+  background: var(--gray-50);
+}
+
+.audit-detail-cell {
+  padding: 0 !important;
+  border-bottom: 2px solid var(--gray-300) !important;
+}
+
+.audit-detail-header {
+  padding: 0.75rem 1.5rem;
+  font-size: 0.75rem;
+  color: var(--gray-500);
+  border-bottom: 1px solid var(--gray-200);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.audit-full-id {
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-size: 0.6875rem;
+  color: var(--blue-600);
+  background: var(--blue-50);
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  word-break: break-all;
+}
+
+.audit-detail-cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+}
+
+.audit-detail-section {
+  padding: 0.75rem 1.5rem;
+}
+
+.audit-detail-section:not(:last-child) {
+  border-right: 1px solid var(--gray-200);
+}
+
+.audit-detail-section h4 {
+  font-size: 0.6875rem;
+  font-weight: 700;
+  color: var(--gray-500);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+}
+
+.audit-detail-diff {
+  border-top: 1px solid var(--gray-200);
+  grid-column: 1 / -1;
+}
+
+/* ── JSON Diff Viewer ────────────────────────────────────────────────── */
+.json-diff {
+  font-size: 0.75rem;
+}
+
+.json-diff-header {
+  display: grid;
+  grid-template-columns: 140px 1fr 1fr;
+  gap: 0.5rem;
+  padding: 0.25rem 0;
+  border-bottom: 1px solid var(--gray-200);
+  margin-bottom: 0.25rem;
+}
+
+.json-diff-header .json-diff-col {
+  font-weight: 700;
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--gray-500);
+}
+
+.json-diff-row {
+  display: grid;
+  grid-template-columns: 140px 1fr 1fr;
+  gap: 0.5rem;
+  padding: 0.2rem 0;
+  border-bottom: 1px solid var(--gray-100);
+  align-items: start;
+}
+
+.json-diff-row--changed {
+  background: #fefce8;
+  border-radius: 3px;
+  padding: 0.2rem 0.35rem;
+  margin: 0 -0.35rem;
+}
+
+.json-diff-key {
+  font-weight: 600;
+  color: var(--gray-700);
+  font-size: 0.6875rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.json-diff-col code {
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-size: 0.6875rem;
+  word-break: break-all;
+  line-height: 1.4;
+}
+
+.json-diff-col--before code {
+  color: var(--gray-500);
+}
+
+.json-diff-col--after code {
+  color: var(--navy-900);
+}
+
+.json-empty {
+  color: var(--gray-500);
+  font-style: italic;
+  font-size: 0.75rem;
+  padding: 0.5rem 0;
+}

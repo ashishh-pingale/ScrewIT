@@ -1,7 +1,11 @@
 import { NavLink } from "react-router-dom";
+import { useQuery } from "convex/react";
+import { api } from "../../convex/_generated/api";
 import "./Sidebar.css";
 
 export default function Sidebar() {
+  const pendingCount = useQuery(api.queries.pendingCount);
+
   return (
     <aside className="sidebar">
       <div className="sidebar-logo">
@@ -13,6 +17,14 @@ export default function Sidebar() {
       </div>
 
       <nav className="sidebar-nav">
+        <NavLink
+          to="/"
+          end
+          className={({ isActive }) => `nav-link ${isActive ? "active" : ""}`}
+        >
+          <span className="nav-icon">🏠</span>
+          Overview
+        </NavLink>
         <NavLink
           to="/materials"
           className={({ isActive }) => `nav-link ${isActive ? "active" : ""}`}
@@ -26,6 +38,9 @@ export default function Sidebar() {
         >
           <span className="nav-icon">🔍</span>
           Review Queue
+          {pendingCount !== undefined && pendingCount > 0 && (
+            <span className="nav-badge">{pendingCount}</span>
+          )}
         </NavLink>
         <NavLink
           to="/analytics"
@@ -33,6 +48,27 @@ export default function Sidebar() {
         >
           <span className="nav-icon">📊</span>
           Analytics
+        </NavLink>
+        <NavLink
+          to="/audit-trail"
+          className={({ isActive }) => `nav-link ${isActive ? "active" : ""}`}
+        >
+          <span className="nav-icon">📜</span>
+          Audit Trail
+        </NavLink>
+        <NavLink
+          to="/ingestion"
+          className={({ isActive }) => `nav-link ${isActive ? "active" : ""}`}
+        >
+          <span className="nav-icon">📥</span>
+          Data Ingestion
+        </NavLink>
+        <NavLink
+          to="/integration"
+          className={({ isActive }) => `nav-link ${isActive ? "active" : ""}`}
+        >
+          <span className="nav-icon">🔄</span>
+          Integration
         </NavLink>
       </nav>
 

@@ -5,21 +5,28 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:all": "concurrently -n convex,vite -c blue,green \"npx convex dev\" \"vite\"",
+    "seed": "npx convex run seed:seedAll",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview"
   },
   "dependencies": {
     "convex": "^1.45.0",
+    "papaparse": "^5.7.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
-    "react-router-dom": "^7.18.3"
+    "react-router-dom": "^7.18.3",
+    "string-similarity": "^4.0.4"
   },
   "devDependencies": {
     "@types/node": "^24.13.3",
+    "@types/papaparse": "^5.5.2",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.4",
+    "@types/string-similarity": "^4.0.2",
     "@vitejs/plugin-react": "^6.1.0",
+    "concurrently": "^10.0.5",
     "oxlint": "^1.79.0",
     "typescript": "~6.0.2",
     "vite": "^8.2.2"

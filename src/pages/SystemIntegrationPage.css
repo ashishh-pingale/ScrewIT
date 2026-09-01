@@ -1,0 +1,317 @@
+/* ── Sync All Bar ─────────────────────────────────────────────────────── */
+.sync-all-bar {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  padding: 0.875rem 1.25rem;
+  background: linear-gradient(135deg, #0c1929, #1a3f6b);
+  border-radius: 8px;
+}
+
+.btn-sync-all {
+  background: var(--white);
+  color: var(--navy-900);
+  font-weight: 700;
+  padding: 0.5rem 1.25rem;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-size: 0.8125rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.15s ease;
+}
+
+.btn-sync-all:hover:not(:disabled) {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn-sync-all:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.sync-all-hint {
+  font-size: 0.8125rem;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* ── ERP Card Grid ───────────────────────────────────────────────────── */
+.erp-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.erp-card {
+  background: var(--white);
+  border: 1px solid var(--gray-300);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.erp-card--syncing {
+  border-color: var(--blue-400);
+  box-shadow: 0 0 0 3px var(--blue-100);
+}
+
+.erp-card--synced {
+  border-color: #86efac;
+  background: #f0fdf4;
+}
+
+/* ── Card Header ─────────────────────────────────────────────────────── */
+.erp-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.erp-icon {
+  font-size: 1.75rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--gray-100);
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.erp-info {
+  flex: 1;
+}
+
+.erp-info h3 {
+  font-size: 0.9375rem;
+  font-weight: 700;
+  color: var(--navy-900);
+  margin: 0;
+}
+
+.erp-meta {
+  font-size: 0.6875rem;
+  color: var(--gray-500);
+  font-weight: 500;
+}
+
+.erp-status-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--gray-300);
+  flex-shrink: 0;
+}
+
+.erp-status-dot--ok {
+  background: var(--green-600);
+  box-shadow: 0 0 0 3px rgba(22, 163, 74, 0.15);
+}
+
+.erp-status-dot--syncing {
+  background: var(--blue-500);
+  animation: pulse-dot 1s ease-in-out infinite;
+}
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(1.3); }
+}
+
+/* ── Progress Bar ────────────────────────────────────────────────────── */
+.erp-progress {
+  margin-bottom: 0.75rem;
+}
+
+.erp-progress-bar {
+  height: 6px;
+  background: var(--gray-100);
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 0.35rem;
+}
+
+.erp-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--green-600), #22c55e);
+  border-radius: 3px;
+  transition: width 0.6s ease;
+}
+
+.erp-card--syncing .erp-progress-fill {
+  background: linear-gradient(90deg, var(--blue-500), var(--blue-400));
+  animation: progress-pulse 1.2s ease-in-out infinite;
+}
+
+@keyframes progress-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+
+.erp-progress-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.6875rem;
+  color: var(--gray-500);
+}
+
+.erp-pending-count {
+  font-weight: 700;
+  color: var(--amber-600);
+}
+
+/* ── Sync Flash ──────────────────────────────────────────────────────── */
+.erp-sync-flash {
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 0.75rem;
+  background: #dcfce7;
+  border: 1px solid #86efac;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #166534;
+  animation: flash-in 0.3s ease;
+}
+
+@keyframes flash-in {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Card Actions ────────────────────────────────────────────────────── */
+.erp-card-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.btn-sync {
+  background: var(--blue-600);
+  color: var(--white);
+  padding: 0.45rem 1rem;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: all 0.15s ease;
+}
+
+.btn-sync:hover:not(:disabled) {
+  background: var(--blue-700);
+}
+
+.btn-sync:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.erp-synced-label {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--green-600);
+}
+
+/* ── Sync Spinner ────────────────────────────────────────────────────── */
+.sync-spinner {
+  display: inline-block;
+  width: 0.875rem;
+  height: 0.875rem;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-top-color: var(--white);
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+}
+
+.btn-ghost .sync-spinner {
+  border-color: rgba(30, 86, 160, 0.3);
+  border-top-color: var(--blue-600);
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ── Payload Preview ─────────────────────────────────────────────────── */
+.erp-payload {
+  margin-top: 1rem;
+  border: 1px solid var(--gray-200);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--gray-50);
+}
+
+.erp-payload-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background: var(--gray-100);
+  border-bottom: 1px solid var(--gray-200);
+}
+
+.erp-payload-title {
+  font-size: 0.6875rem;
+  font-weight: 700;
+  color: var(--gray-700);
+}
+
+.erp-payload-format {
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-size: 0.625rem;
+  color: var(--gray-500);
+  background: var(--white);
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+}
+
+.erp-payload-json {
+  padding: 1rem;
+  margin: 0;
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-size: 0.6875rem;
+  line-height: 1.6;
+  color: var(--navy-900);
+  overflow-x: auto;
+  white-space: pre;
+}
+
+/* ── Architecture Note ───────────────────────────────────────────────── */
+.integration-note {
+  background: var(--gray-50);
+  border: 1px solid var(--gray-300);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+}
+
+.integration-note h4 {
+  font-size: 0.8125rem;
+  font-weight: 700;
+  color: var(--navy-900);
+  margin-bottom: 0.5rem;
+}
+
+.integration-note p {
+  font-size: 0.8125rem;
+  color: var(--gray-700);
+  line-height: 1.6;
+}
+
+.integration-note code {
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-size: 0.75rem;
+  background: var(--white);
+  padding: 0.1rem 0.35rem;
+  border-radius: 3px;
+  border: 1px solid var(--gray-200);
+  color: var(--blue-600);
+}
