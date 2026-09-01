@@ -1,0 +1,201 @@
+standard_material_id,standard_code,canonical_name,category,material,grade,specifications,canonical_unit,synthetic_data_notice
+SYN-CAN-001,SYN-FST-M6-24-G46,Hex Head Bolt M6 x 24 mm Grade 4.6,Fasteners,Carbon Steel,4.6,ISO 4014; thread M6; length 24 mm; property class 4.6,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-002,SYN-FST-M6-30-G88,Hex Head Bolt M6 x 30 mm Grade 8.8,Fasteners,Carbon Steel,8.8,ISO 4014; thread M6; length 30 mm; property class 8.8,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-003,SYN-FST-M6-36-G109,Hex Head Bolt M6 x 36 mm Grade 10.9,Fasteners,Carbon Steel,10.9,ISO 4014; thread M6; length 36 mm; property class 10.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-004,SYN-FST-M6-42-G129,Hex Head Bolt M6 x 42 mm Grade 12.9,Fasteners,Carbon Steel,12.9,ISO 4014; thread M6; length 42 mm; property class 12.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-005,SYN-FST-M8-32-G46,Hex Head Bolt M8 x 32 mm Grade 4.6,Fasteners,Carbon Steel,4.6,ISO 4014; thread M8; length 32 mm; property class 4.6,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-006,SYN-FST-M8-40-G88,Hex Head Bolt M8 x 40 mm Grade 8.8,Fasteners,Carbon Steel,8.8,ISO 4014; thread M8; length 40 mm; property class 8.8,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-007,SYN-FST-M8-48-G109,Hex Head Bolt M8 x 48 mm Grade 10.9,Fasteners,Carbon Steel,10.9,ISO 4014; thread M8; length 48 mm; property class 10.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-008,SYN-FST-M8-56-G129,Hex Head Bolt M8 x 56 mm Grade 12.9,Fasteners,Carbon Steel,12.9,ISO 4014; thread M8; length 56 mm; property class 12.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-009,SYN-FST-M10-40-G46,Hex Head Bolt M10 x 40 mm Grade 4.6,Fasteners,Carbon Steel,4.6,ISO 4014; thread M10; length 40 mm; property class 4.6,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-010,SYN-FST-M10-50-G88,Hex Head Bolt M10 x 50 mm Grade 8.8,Fasteners,Carbon Steel,8.8,ISO 4014; thread M10; length 50 mm; property class 8.8,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-011,SYN-FST-M10-60-G109,Hex Head Bolt M10 x 60 mm Grade 10.9,Fasteners,Carbon Steel,10.9,ISO 4014; thread M10; length 60 mm; property class 10.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-012,SYN-FST-M10-70-G129,Hex Head Bolt M10 x 70 mm Grade 12.9,Fasteners,Carbon Steel,12.9,ISO 4014; thread M10; length 70 mm; property class 12.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-013,SYN-FST-M12-48-G46,Hex Head Bolt M12 x 48 mm Grade 4.6,Fasteners,Carbon Steel,4.6,ISO 4014; thread M12; length 48 mm; property class 4.6,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-014,SYN-FST-M12-60-G88,Hex Head Bolt M12 x 60 mm Grade 8.8,Fasteners,Carbon Steel,8.8,ISO 4014; thread M12; length 60 mm; property class 8.8,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-015,SYN-FST-M12-72-G109,Hex Head Bolt M12 x 72 mm Grade 10.9,Fasteners,Carbon Steel,10.9,ISO 4014; thread M12; length 72 mm; property class 10.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-016,SYN-FST-M12-84-G129,Hex Head Bolt M12 x 84 mm Grade 12.9,Fasteners,Carbon Steel,12.9,ISO 4014; thread M12; length 84 mm; property class 12.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-017,SYN-FST-M14-56-G46,Hex Head Bolt M14 x 56 mm Grade 4.6,Fasteners,Carbon Steel,4.6,ISO 4014; thread M14; length 56 mm; property class 4.6,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-018,SYN-FST-M14-70-G88,Hex Head Bolt M14 x 70 mm Grade 8.8,Fasteners,Carbon Steel,8.8,ISO 4014; thread M14; length 70 mm; property class 8.8,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-019,SYN-FST-M14-84-G109,Hex Head Bolt M14 x 84 mm Grade 10.9,Fasteners,Carbon Steel,10.9,ISO 4014; thread M14; length 84 mm; property class 10.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-020,SYN-FST-M14-98-G129,Hex Head Bolt M14 x 98 mm Grade 12.9,Fasteners,Carbon Steel,12.9,ISO 4014; thread M14; length 98 mm; property class 12.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-021,SYN-FST-M16-64-G46,Hex Head Bolt M16 x 64 mm Grade 4.6,Fasteners,Carbon Steel,4.6,ISO 4014; thread M16; length 64 mm; property class 4.6,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-022,SYN-FST-M16-80-G88,Hex Head Bolt M16 x 80 mm Grade 8.8,Fasteners,Carbon Steel,8.8,ISO 4014; thread M16; length 80 mm; property class 8.8,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-023,SYN-FST-M16-96-G109,Hex Head Bolt M16 x 96 mm Grade 10.9,Fasteners,Carbon Steel,10.9,ISO 4014; thread M16; length 96 mm; property class 10.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-024,SYN-FST-M16-112-G129,Hex Head Bolt M16 x 112 mm Grade 12.9,Fasteners,Carbon Steel,12.9,ISO 4014; thread M16; length 112 mm; property class 12.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-025,SYN-FST-M18-72-G46,Hex Head Bolt M18 x 72 mm Grade 4.6,Fasteners,Carbon Steel,4.6,ISO 4014; thread M18; length 72 mm; property class 4.6,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-026,SYN-FST-M18-90-G88,Hex Head Bolt M18 x 90 mm Grade 8.8,Fasteners,Carbon Steel,8.8,ISO 4014; thread M18; length 90 mm; property class 8.8,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-027,SYN-FST-M18-108-G109,Hex Head Bolt M18 x 108 mm Grade 10.9,Fasteners,Carbon Steel,10.9,ISO 4014; thread M18; length 108 mm; property class 10.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-028,SYN-FST-M18-126-G129,Hex Head Bolt M18 x 126 mm Grade 12.9,Fasteners,Carbon Steel,12.9,ISO 4014; thread M18; length 126 mm; property class 12.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-029,SYN-FST-M20-80-G46,Hex Head Bolt M20 x 80 mm Grade 4.6,Fasteners,Carbon Steel,4.6,ISO 4014; thread M20; length 80 mm; property class 4.6,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-030,SYN-FST-M20-100-G88,Hex Head Bolt M20 x 100 mm Grade 8.8,Fasteners,Carbon Steel,8.8,ISO 4014; thread M20; length 100 mm; property class 8.8,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-031,SYN-FST-M20-120-G109,Hex Head Bolt M20 x 120 mm Grade 10.9,Fasteners,Carbon Steel,10.9,ISO 4014; thread M20; length 120 mm; property class 10.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-032,SYN-FST-M20-140-G129,Hex Head Bolt M20 x 140 mm Grade 12.9,Fasteners,Carbon Steel,12.9,ISO 4014; thread M20; length 140 mm; property class 12.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-033,SYN-FST-M22-88-G46,Hex Head Bolt M22 x 88 mm Grade 4.6,Fasteners,Carbon Steel,4.6,ISO 4014; thread M22; length 88 mm; property class 4.6,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-034,SYN-FST-M22-110-G88,Hex Head Bolt M22 x 110 mm Grade 8.8,Fasteners,Carbon Steel,8.8,ISO 4014; thread M22; length 110 mm; property class 8.8,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-035,SYN-FST-M22-132-G109,Hex Head Bolt M22 x 132 mm Grade 10.9,Fasteners,Carbon Steel,10.9,ISO 4014; thread M22; length 132 mm; property class 10.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-036,SYN-FST-M22-154-G129,Hex Head Bolt M22 x 154 mm Grade 12.9,Fasteners,Carbon Steel,12.9,ISO 4014; thread M22; length 154 mm; property class 12.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-037,SYN-FST-M24-96-G46,Hex Head Bolt M24 x 96 mm Grade 4.6,Fasteners,Carbon Steel,4.6,ISO 4014; thread M24; length 96 mm; property class 4.6,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-038,SYN-FST-M24-120-G88,Hex Head Bolt M24 x 120 mm Grade 8.8,Fasteners,Carbon Steel,8.8,ISO 4014; thread M24; length 120 mm; property class 8.8,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-039,SYN-FST-M24-144-G109,Hex Head Bolt M24 x 144 mm Grade 10.9,Fasteners,Carbon Steel,10.9,ISO 4014; thread M24; length 144 mm; property class 10.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-040,SYN-FST-M24-168-G129,Hex Head Bolt M24 x 168 mm Grade 12.9,Fasteners,Carbon Steel,12.9,ISO 4014; thread M24; length 168 mm; property class 12.9,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-041,SYN-VLV-GAT-DN15-CL150,Gate Valve DN 15 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 15; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-042,SYN-VLV-GAT-DN15-CL300,Gate Valve DN 15 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 15; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-043,SYN-VLV-GAT-DN25-CL150,Gate Valve DN 25 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 25; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-044,SYN-VLV-GAT-DN25-CL300,Gate Valve DN 25 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 25; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-045,SYN-VLV-GAT-DN40-CL150,Gate Valve DN 40 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 40; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-046,SYN-VLV-GAT-DN40-CL300,Gate Valve DN 40 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 40; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-047,SYN-VLV-GAT-DN50-CL150,Gate Valve DN 50 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 50; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-048,SYN-VLV-GAT-DN50-CL300,Gate Valve DN 50 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 50; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-049,SYN-VLV-GAT-DN80-CL150,Gate Valve DN 80 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 80; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-050,SYN-VLV-GAT-DN80-CL300,Gate Valve DN 80 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 80; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-051,SYN-VLV-GLO-DN15-CL150,Globe Valve DN 15 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 15; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-052,SYN-VLV-GLO-DN15-CL300,Globe Valve DN 15 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 15; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-053,SYN-VLV-GLO-DN25-CL150,Globe Valve DN 25 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 25; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-054,SYN-VLV-GLO-DN25-CL300,Globe Valve DN 25 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 25; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-055,SYN-VLV-GLO-DN40-CL150,Globe Valve DN 40 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 40; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-056,SYN-VLV-GLO-DN40-CL300,Globe Valve DN 40 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 40; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-057,SYN-VLV-GLO-DN50-CL150,Globe Valve DN 50 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 50; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-058,SYN-VLV-GLO-DN50-CL300,Globe Valve DN 50 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 50; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-059,SYN-VLV-GLO-DN80-CL150,Globe Valve DN 80 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 80; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-060,SYN-VLV-GLO-DN80-CL300,Globe Valve DN 80 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 80; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-061,SYN-VLV-BAL-DN15-CL150,Ball Valve DN 15 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 15; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-062,SYN-VLV-BAL-DN15-CL300,Ball Valve DN 15 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 15; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-063,SYN-VLV-BAL-DN25-CL150,Ball Valve DN 25 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 25; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-064,SYN-VLV-BAL-DN25-CL300,Ball Valve DN 25 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 25; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-065,SYN-VLV-BAL-DN40-CL150,Ball Valve DN 40 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 40; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-066,SYN-VLV-BAL-DN40-CL300,Ball Valve DN 40 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 40; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-067,SYN-VLV-BAL-DN50-CL150,Ball Valve DN 50 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 50; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-068,SYN-VLV-BAL-DN50-CL300,Ball Valve DN 50 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 50; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-069,SYN-VLV-BAL-DN80-CL150,Ball Valve DN 80 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 80; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-070,SYN-VLV-BAL-DN80-CL300,Ball Valve DN 80 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 80; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-071,SYN-VLV-BUT-DN15-CL150,Butterfly Valve DN 15 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 15; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-072,SYN-VLV-BUT-DN15-CL300,Butterfly Valve DN 15 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 15; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-073,SYN-VLV-BUT-DN25-CL150,Butterfly Valve DN 25 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 25; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-074,SYN-VLV-BUT-DN25-CL300,Butterfly Valve DN 25 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 25; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-075,SYN-VLV-BUT-DN40-CL150,Butterfly Valve DN 40 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 40; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-076,SYN-VLV-BUT-DN40-CL300,Butterfly Valve DN 40 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 40; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-077,SYN-VLV-BUT-DN50-CL150,Butterfly Valve DN 50 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 50; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-078,SYN-VLV-BUT-DN50-CL300,Butterfly Valve DN 50 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 50; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-079,SYN-VLV-BUT-DN80-CL150,Butterfly Valve DN 80 Class 150 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 80; Class 150; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-080,SYN-VLV-BUT-DN80-CL300,Butterfly Valve DN 80 Class 300 RF Flanged,Piping Valves,Carbon Steel,ASTM A216 WCB,ASME B16.34; DN 80; Class 300; RF flange,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-081,SYN-CBL-COP-2CX2P5-1P1kV,Copper PVC Cable 2C x 2.5 sq mm 1.1 kV,Electrical Cables,Copper,IEC 60502,2C x 2.5 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-082,SYN-CBL-COP-2CX2P5-3P3kV,Copper PVC Cable 2C x 2.5 sq mm 3.3 kV,Electrical Cables,Copper,IEC 60502,2C x 2.5 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-083,SYN-CBL-COP-3CX4-1P1kV,Copper PVC Cable 3C x 4 sq mm 1.1 kV,Electrical Cables,Copper,IEC 60502,3C x 4 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-084,SYN-CBL-COP-3CX4-3P3kV,Copper PVC Cable 3C x 4 sq mm 3.3 kV,Electrical Cables,Copper,IEC 60502,3C x 4 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-085,SYN-CBL-COP-3CX6-1P1kV,Copper PVC Cable 3C x 6 sq mm 1.1 kV,Electrical Cables,Copper,IEC 60502,3C x 6 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-086,SYN-CBL-COP-3CX6-3P3kV,Copper PVC Cable 3C x 6 sq mm 3.3 kV,Electrical Cables,Copper,IEC 60502,3C x 6 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-087,SYN-CBL-COP-4CX10-1P1kV,Copper PVC Cable 4C x 10 sq mm 1.1 kV,Electrical Cables,Copper,IEC 60502,4C x 10 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-088,SYN-CBL-COP-4CX10-3P3kV,Copper PVC Cable 4C x 10 sq mm 3.3 kV,Electrical Cables,Copper,IEC 60502,4C x 10 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-089,SYN-CBL-COP-4CX16-1P1kV,Copper PVC Cable 4C x 16 sq mm 1.1 kV,Electrical Cables,Copper,IEC 60502,4C x 16 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-090,SYN-CBL-COP-4CX16-3P3kV,Copper PVC Cable 4C x 16 sq mm 3.3 kV,Electrical Cables,Copper,IEC 60502,4C x 16 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-091,SYN-CBL-ALU-2CX2P5-1P1kV,Aluminium XLPE Cable 2C x 2.5 sq mm 1.1 kV,Electrical Cables,Aluminium,IEC 60502,2C x 2.5 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-092,SYN-CBL-ALU-2CX2P5-3P3kV,Aluminium XLPE Cable 2C x 2.5 sq mm 3.3 kV,Electrical Cables,Aluminium,IEC 60502,2C x 2.5 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-093,SYN-CBL-ALU-3CX4-1P1kV,Aluminium XLPE Cable 3C x 4 sq mm 1.1 kV,Electrical Cables,Aluminium,IEC 60502,3C x 4 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-094,SYN-CBL-ALU-3CX4-3P3kV,Aluminium XLPE Cable 3C x 4 sq mm 3.3 kV,Electrical Cables,Aluminium,IEC 60502,3C x 4 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-095,SYN-CBL-ALU-3CX6-1P1kV,Aluminium XLPE Cable 3C x 6 sq mm 1.1 kV,Electrical Cables,Aluminium,IEC 60502,3C x 6 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-096,SYN-CBL-ALU-3CX6-3P3kV,Aluminium XLPE Cable 3C x 6 sq mm 3.3 kV,Electrical Cables,Aluminium,IEC 60502,3C x 6 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-097,SYN-CBL-ALU-4CX10-1P1kV,Aluminium XLPE Cable 4C x 10 sq mm 1.1 kV,Electrical Cables,Aluminium,IEC 60502,4C x 10 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-098,SYN-CBL-ALU-4CX10-3P3kV,Aluminium XLPE Cable 4C x 10 sq mm 3.3 kV,Electrical Cables,Aluminium,IEC 60502,4C x 10 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-099,SYN-CBL-ALU-4CX16-1P1kV,Aluminium XLPE Cable 4C x 16 sq mm 1.1 kV,Electrical Cables,Aluminium,IEC 60502,4C x 16 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-100,SYN-CBL-ALU-4CX16-3P3kV,Aluminium XLPE Cable 4C x 16 sq mm 3.3 kV,Electrical Cables,Aluminium,IEC 60502,4C x 16 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-101,SYN-CBL-COP-2CX2P5-1P1kV,Copper Control Cable 2C x 2.5 sq mm 1.1 kV,Electrical Cables,Copper,IEC 60502,2C x 2.5 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-102,SYN-CBL-COP-2CX2P5-3P3kV,Copper Control Cable 2C x 2.5 sq mm 3.3 kV,Electrical Cables,Copper,IEC 60502,2C x 2.5 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-103,SYN-CBL-COP-3CX4-1P1kV,Copper Control Cable 3C x 4 sq mm 1.1 kV,Electrical Cables,Copper,IEC 60502,3C x 4 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-104,SYN-CBL-COP-3CX4-3P3kV,Copper Control Cable 3C x 4 sq mm 3.3 kV,Electrical Cables,Copper,IEC 60502,3C x 4 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-105,SYN-CBL-COP-3CX6-1P1kV,Copper Control Cable 3C x 6 sq mm 1.1 kV,Electrical Cables,Copper,IEC 60502,3C x 6 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-106,SYN-CBL-COP-3CX6-3P3kV,Copper Control Cable 3C x 6 sq mm 3.3 kV,Electrical Cables,Copper,IEC 60502,3C x 6 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-107,SYN-CBL-COP-4CX10-1P1kV,Copper Control Cable 4C x 10 sq mm 1.1 kV,Electrical Cables,Copper,IEC 60502,4C x 10 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-108,SYN-CBL-COP-4CX10-3P3kV,Copper Control Cable 4C x 10 sq mm 3.3 kV,Electrical Cables,Copper,IEC 60502,4C x 10 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-109,SYN-CBL-COP-4CX16-1P1kV,Copper Control Cable 4C x 16 sq mm 1.1 kV,Electrical Cables,Copper,IEC 60502,4C x 16 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-110,SYN-CBL-COP-4CX16-3P3kV,Copper Control Cable 4C x 16 sq mm 3.3 kV,Electrical Cables,Copper,IEC 60502,4C x 16 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-111,SYN-CBL-ALU-2CX2P5-1P1kV,Aluminium Armoured Cable 2C x 2.5 sq mm 1.1 kV,Electrical Cables,Aluminium,IEC 60502,2C x 2.5 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-112,SYN-CBL-ALU-2CX2P5-3P3kV,Aluminium Armoured Cable 2C x 2.5 sq mm 3.3 kV,Electrical Cables,Aluminium,IEC 60502,2C x 2.5 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-113,SYN-CBL-ALU-3CX4-1P1kV,Aluminium Armoured Cable 3C x 4 sq mm 1.1 kV,Electrical Cables,Aluminium,IEC 60502,3C x 4 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-114,SYN-CBL-ALU-3CX4-3P3kV,Aluminium Armoured Cable 3C x 4 sq mm 3.3 kV,Electrical Cables,Aluminium,IEC 60502,3C x 4 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-115,SYN-CBL-ALU-3CX6-1P1kV,Aluminium Armoured Cable 3C x 6 sq mm 1.1 kV,Electrical Cables,Aluminium,IEC 60502,3C x 6 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-116,SYN-CBL-ALU-3CX6-3P3kV,Aluminium Armoured Cable 3C x 6 sq mm 3.3 kV,Electrical Cables,Aluminium,IEC 60502,3C x 6 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-117,SYN-CBL-ALU-4CX10-1P1kV,Aluminium Armoured Cable 4C x 10 sq mm 1.1 kV,Electrical Cables,Aluminium,IEC 60502,4C x 10 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-118,SYN-CBL-ALU-4CX10-3P3kV,Aluminium Armoured Cable 4C x 10 sq mm 3.3 kV,Electrical Cables,Aluminium,IEC 60502,4C x 10 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-119,SYN-CBL-ALU-4CX16-1P1kV,Aluminium Armoured Cable 4C x 16 sq mm 1.1 kV,Electrical Cables,Aluminium,IEC 60502,4C x 16 sq mm; rated voltage 1.1 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-120,SYN-CBL-ALU-4CX16-3P3kV,Aluminium Armoured Cable 4C x 16 sq mm 3.3 kV,Electrical Cables,Aluminium,IEC 60502,4C x 16 sq mm; rated voltage 3.3 kV; insulated cable,metre,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-121,SYN-BRG-62-20-Normal,Deep Groove Ball Bearing Series 62 Bore 20 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 62; bore 20 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-122,SYN-BRG-62-20-C3,Deep Groove Ball Bearing Series 62 Bore 20 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 62; bore 20 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-123,SYN-BRG-62-25-Normal,Deep Groove Ball Bearing Series 62 Bore 25 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 62; bore 25 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-124,SYN-BRG-62-25-C3,Deep Groove Ball Bearing Series 62 Bore 25 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 62; bore 25 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-125,SYN-BRG-62-30-Normal,Deep Groove Ball Bearing Series 62 Bore 30 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 62; bore 30 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-126,SYN-BRG-62-30-C3,Deep Groove Ball Bearing Series 62 Bore 30 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 62; bore 30 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-127,SYN-BRG-62-35-Normal,Deep Groove Ball Bearing Series 62 Bore 35 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 62; bore 35 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-128,SYN-BRG-62-35-C3,Deep Groove Ball Bearing Series 62 Bore 35 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 62; bore 35 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-129,SYN-BRG-62-40-Normal,Deep Groove Ball Bearing Series 62 Bore 40 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 62; bore 40 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-130,SYN-BRG-62-40-C3,Deep Groove Ball Bearing Series 62 Bore 40 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 62; bore 40 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-131,SYN-BRG-32-20-Normal,Taper Roller Bearing Series 32 Bore 20 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 32; bore 20 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-132,SYN-BRG-32-20-C3,Taper Roller Bearing Series 32 Bore 20 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 32; bore 20 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-133,SYN-BRG-32-25-Normal,Taper Roller Bearing Series 32 Bore 25 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 32; bore 25 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-134,SYN-BRG-32-25-C3,Taper Roller Bearing Series 32 Bore 25 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 32; bore 25 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-135,SYN-BRG-32-30-Normal,Taper Roller Bearing Series 32 Bore 30 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 32; bore 30 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-136,SYN-BRG-32-30-C3,Taper Roller Bearing Series 32 Bore 30 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 32; bore 30 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-137,SYN-BRG-32-35-Normal,Taper Roller Bearing Series 32 Bore 35 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 32; bore 35 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-138,SYN-BRG-32-35-C3,Taper Roller Bearing Series 32 Bore 35 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 32; bore 35 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-139,SYN-BRG-32-40-Normal,Taper Roller Bearing Series 32 Bore 40 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 32; bore 40 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-140,SYN-BRG-32-40-C3,Taper Roller Bearing Series 32 Bore 40 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 32; bore 40 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-141,SYN-BRG-22-20-Normal,Spherical Roller Bearing Series 22 Bore 20 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 22; bore 20 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-142,SYN-BRG-22-20-C3,Spherical Roller Bearing Series 22 Bore 20 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 22; bore 20 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-143,SYN-BRG-22-25-Normal,Spherical Roller Bearing Series 22 Bore 25 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 22; bore 25 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-144,SYN-BRG-22-25-C3,Spherical Roller Bearing Series 22 Bore 25 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 22; bore 25 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-145,SYN-BRG-22-30-Normal,Spherical Roller Bearing Series 22 Bore 30 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 22; bore 30 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-146,SYN-BRG-22-30-C3,Spherical Roller Bearing Series 22 Bore 30 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 22; bore 30 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-147,SYN-BRG-22-35-Normal,Spherical Roller Bearing Series 22 Bore 35 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 22; bore 35 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-148,SYN-BRG-22-35-C3,Spherical Roller Bearing Series 22 Bore 35 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 22; bore 35 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-149,SYN-BRG-22-40-Normal,Spherical Roller Bearing Series 22 Bore 40 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series 22; bore 40 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-150,SYN-BRG-22-40-C3,Spherical Roller Bearing Series 22 Bore 40 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series 22; bore 40 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-151,SYN-BRG-NA-20-Normal,Needle Roller Bearing Series NA Bore 20 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series NA; bore 20 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-152,SYN-BRG-NA-20-C3,Needle Roller Bearing Series NA Bore 20 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series NA; bore 20 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-153,SYN-BRG-NA-25-Normal,Needle Roller Bearing Series NA Bore 25 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series NA; bore 25 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-154,SYN-BRG-NA-25-C3,Needle Roller Bearing Series NA Bore 25 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series NA; bore 25 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-155,SYN-BRG-NA-30-Normal,Needle Roller Bearing Series NA Bore 30 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series NA; bore 30 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-156,SYN-BRG-NA-30-C3,Needle Roller Bearing Series NA Bore 30 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series NA; bore 30 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-157,SYN-BRG-NA-35-Normal,Needle Roller Bearing Series NA Bore 35 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series NA; bore 35 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-158,SYN-BRG-NA-35-C3,Needle Roller Bearing Series NA Bore 35 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series NA; bore 35 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-159,SYN-BRG-NA-40-Normal,Needle Roller Bearing Series NA Bore 40 mm Normal Clearance,Bearings,Chrome Steel,ISO 15,Series NA; bore 40 mm; radial clearance Normal,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-160,SYN-BRG-NA-40-C3,Needle Roller Bearing Series NA Bore 40 mm C3 Clearance,Bearings,Chrome Steel,ISO 15,Series NA; bore 40 mm; radial clearance C3,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-161,SYN-GSK-GRAPH-DN15-CL150,Graphite Flange Gasket DN 15 Class 150,Sealing,Graphite,ASME B16.20,DN 15; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-162,SYN-GSK-GRAPH-DN15-CL300,Graphite Flange Gasket DN 15 Class 300,Sealing,Graphite,ASME B16.20,DN 15; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-163,SYN-GSK-GRAPH-DN25-CL150,Graphite Flange Gasket DN 25 Class 150,Sealing,Graphite,ASME B16.20,DN 25; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-164,SYN-GSK-GRAPH-DN25-CL300,Graphite Flange Gasket DN 25 Class 300,Sealing,Graphite,ASME B16.20,DN 25; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-165,SYN-GSK-GRAPH-DN40-CL150,Graphite Flange Gasket DN 40 Class 150,Sealing,Graphite,ASME B16.20,DN 40; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-166,SYN-GSK-GRAPH-DN40-CL300,Graphite Flange Gasket DN 40 Class 300,Sealing,Graphite,ASME B16.20,DN 40; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-167,SYN-GSK-GRAPH-DN50-CL150,Graphite Flange Gasket DN 50 Class 150,Sealing,Graphite,ASME B16.20,DN 50; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-168,SYN-GSK-GRAPH-DN50-CL300,Graphite Flange Gasket DN 50 Class 300,Sealing,Graphite,ASME B16.20,DN 50; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-169,SYN-GSK-GRAPH-DN80-CL150,Graphite Flange Gasket DN 80 Class 150,Sealing,Graphite,ASME B16.20,DN 80; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-170,SYN-GSK-GRAPH-DN80-CL300,Graphite Flange Gasket DN 80 Class 300,Sealing,Graphite,ASME B16.20,DN 80; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-171,SYN-GSK-PTFE-DN15-CL150,PTFE Flange Gasket DN 15 Class 150,Sealing,PTFE,ASME B16.20,DN 15; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-172,SYN-GSK-PTFE-DN15-CL300,PTFE Flange Gasket DN 15 Class 300,Sealing,PTFE,ASME B16.20,DN 15; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-173,SYN-GSK-PTFE-DN25-CL150,PTFE Flange Gasket DN 25 Class 150,Sealing,PTFE,ASME B16.20,DN 25; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-174,SYN-GSK-PTFE-DN25-CL300,PTFE Flange Gasket DN 25 Class 300,Sealing,PTFE,ASME B16.20,DN 25; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-175,SYN-GSK-PTFE-DN40-CL150,PTFE Flange Gasket DN 40 Class 150,Sealing,PTFE,ASME B16.20,DN 40; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-176,SYN-GSK-PTFE-DN40-CL300,PTFE Flange Gasket DN 40 Class 300,Sealing,PTFE,ASME B16.20,DN 40; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-177,SYN-GSK-PTFE-DN50-CL150,PTFE Flange Gasket DN 50 Class 150,Sealing,PTFE,ASME B16.20,DN 50; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-178,SYN-GSK-PTFE-DN50-CL300,PTFE Flange Gasket DN 50 Class 300,Sealing,PTFE,ASME B16.20,DN 50; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-179,SYN-GSK-PTFE-DN80-CL150,PTFE Flange Gasket DN 80 Class 150,Sealing,PTFE,ASME B16.20,DN 80; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-180,SYN-GSK-PTFE-DN80-CL300,PTFE Flange Gasket DN 80 Class 300,Sealing,PTFE,ASME B16.20,DN 80; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-181,SYN-GSK-SPIRA-DN15-CL150,Spiral Wound SS316 Flange Gasket DN 15 Class 150,Sealing,Spiral Wound SS316,ASME B16.20,DN 15; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-182,SYN-GSK-SPIRA-DN15-CL300,Spiral Wound SS316 Flange Gasket DN 15 Class 300,Sealing,Spiral Wound SS316,ASME B16.20,DN 15; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-183,SYN-GSK-SPIRA-DN25-CL150,Spiral Wound SS316 Flange Gasket DN 25 Class 150,Sealing,Spiral Wound SS316,ASME B16.20,DN 25; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-184,SYN-GSK-SPIRA-DN25-CL300,Spiral Wound SS316 Flange Gasket DN 25 Class 300,Sealing,Spiral Wound SS316,ASME B16.20,DN 25; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-185,SYN-GSK-SPIRA-DN40-CL150,Spiral Wound SS316 Flange Gasket DN 40 Class 150,Sealing,Spiral Wound SS316,ASME B16.20,DN 40; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-186,SYN-GSK-SPIRA-DN40-CL300,Spiral Wound SS316 Flange Gasket DN 40 Class 300,Sealing,Spiral Wound SS316,ASME B16.20,DN 40; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-187,SYN-GSK-SPIRA-DN50-CL150,Spiral Wound SS316 Flange Gasket DN 50 Class 150,Sealing,Spiral Wound SS316,ASME B16.20,DN 50; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-188,SYN-GSK-SPIRA-DN50-CL300,Spiral Wound SS316 Flange Gasket DN 50 Class 300,Sealing,Spiral Wound SS316,ASME B16.20,DN 50; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-189,SYN-GSK-SPIRA-DN80-CL150,Spiral Wound SS316 Flange Gasket DN 80 Class 150,Sealing,Spiral Wound SS316,ASME B16.20,DN 80; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-190,SYN-GSK-SPIRA-DN80-CL300,Spiral Wound SS316 Flange Gasket DN 80 Class 300,Sealing,Spiral Wound SS316,ASME B16.20,DN 80; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-191,SYN-GSK-CAF-DN15-CL150,CAF Flange Gasket DN 15 Class 150,Sealing,CAF,ASME B16.20,DN 15; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-192,SYN-GSK-CAF-DN15-CL300,CAF Flange Gasket DN 15 Class 300,Sealing,CAF,ASME B16.20,DN 15; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-193,SYN-GSK-CAF-DN25-CL150,CAF Flange Gasket DN 25 Class 150,Sealing,CAF,ASME B16.20,DN 25; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-194,SYN-GSK-CAF-DN25-CL300,CAF Flange Gasket DN 25 Class 300,Sealing,CAF,ASME B16.20,DN 25; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-195,SYN-GSK-CAF-DN40-CL150,CAF Flange Gasket DN 40 Class 150,Sealing,CAF,ASME B16.20,DN 40; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-196,SYN-GSK-CAF-DN40-CL300,CAF Flange Gasket DN 40 Class 300,Sealing,CAF,ASME B16.20,DN 40; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-197,SYN-GSK-CAF-DN50-CL150,CAF Flange Gasket DN 50 Class 150,Sealing,CAF,ASME B16.20,DN 50; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-198,SYN-GSK-CAF-DN50-CL300,CAF Flange Gasket DN 50 Class 300,Sealing,CAF,ASME B16.20,DN 50; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-199,SYN-GSK-CAF-DN80-CL150,CAF Flange Gasket DN 80 Class 150,Sealing,CAF,ASME B16.20,DN 80; Class 150; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
+SYN-CAN-200,SYN-GSK-CAF-DN80-CL300,CAF Flange Gasket DN 80 Class 300,Sealing,CAF,ASME B16.20,DN 80; Class 300; raised-face flange gasket,each,SYNTHETIC_DEMO_DATA_ONLY
