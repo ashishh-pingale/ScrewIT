@@ -82,21 +82,36 @@
 .preview-info h2 {
   font-size: 1.05rem;
   font-weight: 700;
-  color: var(--navy-900);
+  color: var(--white);
+  text-shadow: 0 1px 10px rgba(0, 0, 0, 0.45);
 }
 
 .preview-info h2 code {
   font-family: "JetBrains Mono", "Fira Code", monospace;
   font-size: 0.875rem;
-  color: var(--blue-600);
-  background: var(--blue-50);
+  color: #fdba74;
+  background: rgba(10, 17, 32, 0.45);
+  border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 0.1rem 0.4rem;
   border-radius: 3px;
 }
 
 .preview-meta {
   font-size: 0.75rem;
-  color: var(--gray-500);
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.preview-meta code {
+  color: #fdba74;
+}
+
+/* Ghost buttons in the preview header sit on the photo backdrop. */
+.preview-actions .btn-ghost {
+  color: var(--white);
+}
+
+.preview-actions .btn-ghost:hover {
+  background: rgba(255, 255, 255, 0.12);
 }
 
 .preview-meta code {
@@ -160,8 +175,8 @@
   justify-content: space-between;
   gap: 1rem;
   padding: 1rem 1.25rem;
-  background: linear-gradient(135deg, #eff6ff, #dbeafe);
-  border: 1px solid #93c5fd;
+  background: linear-gradient(135deg, #fff7ed, #ffedd5);
+  border: 1px solid #fdba74;
   border-radius: 8px;
   margin-top: 1rem;
   flex-wrap: wrap;
@@ -229,17 +244,18 @@
 
 /* ── Spinner (reuse from materials page) ──────────────────────────────── */
 .btn-ai {
-  background: linear-gradient(135deg, #1e40af, #7c3aed);
+  background: linear-gradient(135deg, var(--blue-500), var(--blue-600));
   color: var(--white);
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
   white-space: nowrap;
+  box-shadow: 0 2px 10px rgba(194, 65, 12, 0.3);
 }
 
 .btn-ai:hover:not(:disabled) {
-  opacity: 0.9;
-  box-shadow: 0 2px 8px rgba(30, 64, 175, 0.3);
+  opacity: 0.92;
+  box-shadow: 0 4px 14px rgba(234, 88, 12, 0.4);
 }
 
 .btn-ai:disabled {

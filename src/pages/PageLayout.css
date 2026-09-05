@@ -10,16 +10,29 @@
 .page-header h1 {
   font-size: 1.5rem;
   font-weight: 700;
-  color: var(--navy-900);
+  color: var(--white);
   letter-spacing: -0.02em;
+  text-shadow: 0 1px 14px rgba(0, 0, 0, 0.45);
+}
+
+.page-header h1::after {
+  content: "";
+  display: block;
+  width: 56px;
+  height: 3px;
+  margin-top: 0.5rem;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--blue-400), var(--blue-600));
+  box-shadow: 0 0 10px rgba(245, 158, 11, 0.4);
 }
 
 .page-description {
-  margin-top: 0.35rem;
+  margin-top: 0.55rem;
   font-size: 0.875rem;
-  color: var(--gray-500);
+  color: rgba(255, 255, 255, 0.78);
   max-width: 640px;
   line-height: 1.5;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.4);
 }
 
 /* Stats Row */

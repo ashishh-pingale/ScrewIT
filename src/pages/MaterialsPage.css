@@ -1,16 +1,17 @@
 /* ── AI Matching Button ──────────────────────────────────────────────── */
 .btn-ai {
-  background: linear-gradient(135deg, #1e40af, #7c3aed);
+  background: linear-gradient(135deg, var(--blue-500), var(--blue-600));
   color: var(--white);
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
   white-space: nowrap;
+  box-shadow: 0 2px 10px rgba(194, 65, 12, 0.3);
 }
 
 .btn-ai:hover:not(:disabled) {
-  opacity: 0.9;
-  box-shadow: 0 2px 8px rgba(30, 64, 175, 0.3);
+  opacity: 0.92;
+  box-shadow: 0 4px 14px rgba(234, 88, 12, 0.4);
 }
 
 .btn-ai:disabled {

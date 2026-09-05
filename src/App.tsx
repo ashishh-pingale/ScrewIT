@@ -17,6 +17,8 @@ function App() {
     <ConvexProvider client={convex}>
       <BrowserRouter>
         <div className="app-layout">
+          {/* Fixed refinery-dusk backdrop behind all page content */}
+          <div className="app-backdrop" aria-hidden="true" />
           <Sidebar />
           <main className="main-content">
             <Routes>

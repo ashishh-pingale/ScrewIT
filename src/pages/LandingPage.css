@@ -5,24 +5,26 @@
 
 /* ── Hero ─────────────────────────────────────────────────────────────── */
 .landing-hero {
-  background: linear-gradient(135deg, var(--navy-900) 0%, var(--navy-700) 100%);
+  /* transparent — the fixed refinery backdrop shows through */
   color: var(--white);
-  padding: 4rem 3rem 3.5rem;
+  padding: 4.5rem 3rem 4rem;
   text-align: center;
 }
 
 .landing-hero-badge {
   display: inline-block;
   padding: 0.3rem 0.9rem;
-  background: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(10, 17, 32, 0.45);
+  border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 999px;
   font-size: 0.6875rem;
   font-weight: 600;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.85);
   margin-bottom: 1.5rem;
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
 }
 
 .landing-title {
@@ -31,21 +33,24 @@
   line-height: 1.15;
   letter-spacing: -0.03em;
   margin-bottom: 1rem;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.35);
 }
 
 .landing-title-accent {
-  background: linear-gradient(135deg, #60a5fa, #a78bfa);
+  background: linear-gradient(180deg, #a5c8ff 0%, #93c5fd 35%, #fbbf24 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  filter: drop-shadow(0 2px 10px rgba(0, 0, 0, 0.25));
 }
 
 .landing-subtitle {
   font-size: 1rem;
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.88);
   max-width: 600px;
   margin: 0 auto 2rem;
   line-height: 1.6;
+  text-shadow: 0 1px 10px rgba(0, 0, 0, 0.45);
 }
 
 .landing-hero-actions {
@@ -67,23 +72,26 @@
 }
 
 .landing-btn--primary {
-  background: var(--blue-500);
+  background: linear-gradient(135deg, var(--blue-500), var(--blue-600));
   color: var(--white);
+  box-shadow: 0 2px 12px rgba(194, 65, 12, 0.35);
 }
 
 .landing-btn--primary:hover {
-  background: var(--blue-400);
-  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+  background: linear-gradient(135deg, var(--blue-400), var(--blue-500));
+  box-shadow: 0 4px 16px rgba(234, 88, 12, 0.4);
 }
 
 .landing-btn--secondary {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(10, 17, 32, 0.4);
   color: var(--white);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
 }
 
 .landing-btn--secondary:hover {
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(10, 17, 32, 0.55);
 }
 
 /* ── Stats Strip ──────────────────────────────────────────────────────── */
@@ -127,16 +135,23 @@
 .landing-section h2 {
   font-size: 1.375rem;
   font-weight: 700;
-  color: var(--navy-900);
+  color: var(--white);
   margin-bottom: 0.75rem;
+  text-shadow: 0 1px 12px rgba(0, 0, 0, 0.45);
 }
 
 .landing-section > p {
   font-size: 0.9375rem;
-  color: var(--gray-700);
+  color: rgba(255, 255, 255, 0.9);
   line-height: 1.6;
   max-width: 720px;
   margin-bottom: 1.5rem;
+  background: rgba(9, 15, 28, 0.38);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  padding: 0.9rem 1.1rem;
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
 }
 
 /* ── Problem Cards ────────────────────────────────────────────────────── */
@@ -216,9 +231,10 @@
 
 .landing-step-arrow {
   font-size: 1.25rem;
-  color: var(--gray-300);
+  color: rgba(255, 255, 255, 0.45);
   padding-top: 1.5rem;
   flex-shrink: 0;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.4);
 }
 
 /* ── Quick Links Grid ─────────────────────────────────────────────────── */
@@ -266,11 +282,11 @@
 /* ── Footer ───────────────────────────────────────────────────────────── */
 .landing-footer {
   padding: 1.5rem 3rem;
-  border-top: 1px solid var(--gray-300);
+  border-top: 1px solid rgba(255, 255, 255, 0.14);
   text-align: center;
 }
 
 .landing-footer p {
   font-size: 0.75rem;
-  color: var(--gray-500);
+  color: rgba(255, 255, 255, 0.65);
 }
