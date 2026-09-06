@@ -12,6 +12,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@clerk/react": "^6.15.1",
     "convex": "^1.45.0",
     "papaparse": "^5.7.0",
     "react": "^19.2.8",
