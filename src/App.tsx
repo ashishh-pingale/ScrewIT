@@ -20,8 +20,6 @@ function App() {
   return (
     <ConvexProviderWithClerk client={convex} useAuth={useAuth}>
       <div className="app-layout">
-        <div className="app-backdrop" aria-hidden="true" />
-
         <Sidebar />
 
         <main className="main-content">
