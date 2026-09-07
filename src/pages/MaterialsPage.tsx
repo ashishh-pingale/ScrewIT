@@ -70,7 +70,7 @@ export default function MaterialsPage() {
     try {
       const result = await runMatching({});
       setToast(
-        `✅ Matching complete — ${result.clustersFound} cluster${result.clustersFound !== 1 ? "s" : ""} found, ${result.mappingsCreated} new mapping${result.mappingsCreated !== 1 ? "s" : ""} created`
+        `Matching complete — ${result.clustersFound} cluster${result.clustersFound !== 1 ? "s" : ""} found, ${result.mappingsCreated} new mapping${result.mappingsCreated !== 1 ? "s" : ""} created`
       );
     } catch (err) {
       setToast(`❌ Error: ${err instanceof Error ? err.message : "Unknown error"}`);

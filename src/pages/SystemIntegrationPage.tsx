@@ -208,7 +208,7 @@ export default function SystemIntegrationPage() {
               {/* ── Sync result flash ───────────────────────────── */}
               {justSynced && (
                 <div className="erp-sync-flash">
-                  ✅ Synced {justSynced.synced} mappings at{" "}
+                  Synced {justSynced.synced} mappings at{" "}
                   {new Date(justSynced.timestamp).toLocaleTimeString("en-IN")}
                 </div>
               )}

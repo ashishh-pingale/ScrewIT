@@ -389,9 +389,9 @@ export default function DataIngestionPage() {
       {importResult && (
         <div className="import-result">
           <div className="import-result-header">
-            <div className="import-result-icon">
-              {importResult.inserted > 0 ? "✅" : "⚠️"}
-            </div>
+            {importResult.inserted > 0 ? null : (
+              <div className="import-result-icon">⚠️</div>
+            )}
 
             <div>
               <h2>Import Complete</h2>
@@ -472,7 +472,7 @@ export default function DataIngestionPage() {
           {/* ── Match result ──────────────────────────────────────────── */}
           {matchResult && (
             <div className="match-result">
-              <div className="match-result-icon">🎉</div>
+              <div className="match-result-icon">✓</div>
 
               <h3>Matching Complete</h3>
 

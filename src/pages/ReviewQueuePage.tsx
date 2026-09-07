@@ -209,7 +209,7 @@ export default function ReviewQueuePage() {
       {/* ── match cards ───────────────────────────────────────────── */}
       {filtered.length === 0 ? (
         <div className="empty-state">
-          <div className="empty-icon">✅</div>
+          <div className="empty-icon">✓</div>
           <p>No pending mappings match the current filters.</p>
         </div>
       ) : (
